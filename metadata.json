@@ -1,0 +1,6 @@
+{
+  "name": "Smart Lost & Found Management System",
+  "description": "Smart Lost & Found Management System with real-time syncing, offline support, automated weighted matching engine, OTP verification for lost items, ownership claim review, and secure admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
